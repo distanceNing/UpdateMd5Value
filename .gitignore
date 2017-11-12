@@ -1,0 +1,11 @@
+*.exe
+Debug/
+Release/
+*.pdb
+*.iobj
+*.ipdb
+*.obj
+*.log
+*.idb
+*.tlog
+testFtp.*
